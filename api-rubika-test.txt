@@ -1,0 +1,3923 @@
+Request URL:
+https://web.rubika.ir/
+Request Method:
+GET
+Status Code:
+200 OK (from service worker)
+Referrer Policy:
+strict-origin-when-cross-origin
+accept-ranges:
+bytes
+content-encoding:
+gzip
+content-length:
+1167
+content-type:
+text/html
+date:
+Sat, 18 Jan 2025 16:34:07 GMT
+etag:
+"034c9236150db1:0"
+last-modified:
+Tue, 17 Dec 2024 08:53:28 GMT
+server:
+Microsoft-IIS/10.0
+vary:
+Accept-Encoding
+x-powered-by:
+ASP.NET
+accept-language:
+en-GB,en;q=0.9
+referer:
+https://web.rubika.ir/
+sec-ch-ua:
+"Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+sec-ch-ua-mobile:
+?0
+sec-ch-ua-platform:
+"Windows"
+upgrade-insecure-requests:
+1
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+
+Request URL:
+https://web.rubika.ir/styles.09e1f3eb3fd5158f7f3b.css
+Request Method:
+GET
+Status Code:
+200 OK (from service worker)
+Referrer Policy:
+strict-origin-when-cross-origin
+accept-ranges:
+bytes
+content-encoding:
+gzip
+content-length:
+71317
+content-type:
+text/css
+date:
+Sat, 18 Jan 2025 16:33:50 GMT
+etag:
+"80a3a8fa6050db1:0"
+last-modified:
+Tue, 17 Dec 2024 08:52:19 GMT
+server:
+Microsoft-IIS/10.0
+vary:
+Accept-Encoding
+x-powered-by:
+ASP.NET
+accept-language:
+en-GB,en;q=0.9
+referer:
+https://web.rubika.ir/
+sec-ch-ua:
+"Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+sec-ch-ua-mobile:
+?0
+sec-ch-ua-platform:
+"Windows"
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+
+Request URL:
+https://web.rubika.ir/runtime-es2015.0dae8cbc97194c7caed4.js
+Request Method:
+GET
+Status Code:
+200 OK (from service worker)
+Referrer Policy:
+strict-origin-when-cross-origin
+accept-ranges:
+bytes
+content-encoding:
+gzip
+content-length:
+940
+content-type:
+application/javascript
+date:
+Sat, 18 Jan 2025 16:33:50 GMT
+etag:
+"803fbc1bc974d81:0"
+last-modified:
+Tue, 31 May 2022 08:33:31 GMT
+server:
+Microsoft-IIS/10.0
+vary:
+Accept-Encoding
+x-powered-by:
+ASP.NET
+accept-language:
+en-GB,en;q=0.9
+origin:
+https://web.rubika.ir
+referer:
+https://web.rubika.ir/
+sec-ch-ua:
+"Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+sec-ch-ua-mobile:
+?0
+sec-ch-ua-platform:
+"Windows"
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+
+Request URL:
+https://web.rubika.ir/polyfills-es2015.c85079585bd3f2e42373.js
+Request Method:
+GET
+Status Code:
+200 OK (from service worker)
+Referrer Policy:
+strict-origin-when-cross-origin
+accept-ranges:
+bytes
+content-encoding:
+gzip
+content-length:
+12712
+content-type:
+application/javascript
+date:
+Sat, 18 Jan 2025 16:33:50 GMT
+etag:
+"803fbc1bc974d81:0"
+last-modified:
+Tue, 31 May 2022 08:33:31 GMT
+server:
+Microsoft-IIS/10.0
+vary:
+Accept-Encoding
+x-powered-by:
+ASP.NET
+accept-language:
+en-GB,en;q=0.9
+origin:
+https://web.rubika.ir
+referer:
+https://web.rubika.ir/
+sec-ch-ua:
+"Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+sec-ch-ua-mobile:
+?0
+sec-ch-ua-platform:
+"Windows"
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+
+equest URL:
+https://web.rubika.ir/main-es2015.2c9b68b6dc6a035bf190.js
+Request Method:
+GET
+Status Code:
+200 OK (from service worker)
+Referrer Policy:
+strict-origin-when-cross-origin
+accept-ranges:
+bytes
+content-encoding:
+gzip
+content-length:
+846114
+content-type:
+application/javascript
+date:
+Sat, 18 Jan 2025 16:33:50 GMT
+etag:
+"0798226150db1:0"
+last-modified:
+Tue, 17 Dec 2024 08:53:26 GMT
+server:
+Microsoft-IIS/10.0
+vary:
+Accept-Encoding
+x-powered-by:
+ASP.NET
+accept-language:
+en-GB,en;q=0.9
+origin:
+https://web.rubika.ir
+referer:
+https://web.rubika.ir/
+sec-ch-ua:
+"Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+sec-ch-ua-mobile:
+?0
+sec-ch-ua-platform:
+"Windows"
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+
+Request URL:
+https://web.rubika.ir/scripts.9fc52888a9a75ff81dc6.js
+Request Method:
+GET
+Status Code:
+200 OK (from service worker)
+Referrer Policy:
+strict-origin-when-cross-origin
+accept-ranges:
+bytes
+content-encoding:
+gzip
+content-length:
+71492
+content-type:
+application/javascript
+date:
+Sat, 18 Jan 2025 16:33:50 GMT
+etag:
+"80a3a8fa6050db1:0"
+last-modified:
+Tue, 17 Dec 2024 08:52:19 GMT
+server:
+Microsoft-IIS/10.0
+vary:
+Accept-Encoding
+x-powered-by:
+ASP.NET
+accept-language:
+en-GB,en;q=0.9
+referer:
+https://web.rubika.ir/
+sec-ch-ua:
+"Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+sec-ch-ua-mobile:
+?0
+sec-ch-ua-platform:
+"Windows"
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+
+Request URL:
+https://web.rubika.ir/assets/fonts/KFOmCnqEu92Fr1Mu4mxKKTU1Kg.woff2
+Request Method:
+GET
+Status Code:
+200 OK (from service worker)
+Referrer Policy:
+strict-origin-when-cross-origin
+accept-ranges:
+bytes
+content-length:
+11016
+content-type:
+application/font-woff2
+date:
+Sat, 18 Jan 2025 16:33:50 GMT
+etag:
+"809fbfe9b825d91:0"
+last-modified:
+Wed, 11 Jan 2023 12:33:31 GMT
+server:
+Microsoft-IIS/10.0
+x-powered-by:
+ASP.NET
+accept-language:
+en-GB,en;q=0.9
+origin:
+https://web.rubika.ir
+referer:
+https://web.rubika.ir/styles.09e1f3eb3fd5158f7f3b.css
+sec-ch-ua:
+"Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+sec-ch-ua-mobile:
+?0
+sec-ch-ua-platform:
+"Windows"
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+
+Request URL:
+https://getdcmess.iranlms.ir/
+Request Method:
+POST
+Status Code:
+200 OK (from service worker)
+Referrer Policy:
+strict-origin-when-cross-origin
+access-control-allow-origin:
+*
+allow:
+GET, POST, HEAD, OPTIONS
+content-length:
+46505
+content-type:
+application/json
+date:
+Sun, 19 Jan 2025 20:12:15 GMT
+server:
+nginx/1.26.1
+vary:
+Accept, Cookie, Origin
+x-frame-options:
+SAMEORIGIN
+accept:
+application/json, text/plain, */*
+accept-language:
+en-GB,en;q=0.9
+content-type:
+application/json
+referer:
+https://web.rubika.ir/
+sec-ch-ua:
+"Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+sec-ch-ua-mobile:
+?0
+sec-ch-ua-platform:
+"Windows"
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+
+Request URL:
+https://web.rubika.ir/assets/locales/fa-ir.json?v=4.4.18
+Request Method:
+GET
+Status Code:
+200 OK (from service worker)
+Referrer Policy:
+strict-origin-when-cross-origin
+accept-ranges:
+bytes
+content-length:
+99048
+content-type:
+application/json
+date:
+Sat, 18 Jan 2025 16:33:52 GMT
+etag:
+"02727b06050db1:0"
+last-modified:
+Tue, 17 Dec 2024 08:50:14 GMT
+server:
+Microsoft-IIS/10.0
+x-powered-by:
+ASP.NET
+accept:
+application/json, text/plain, */*
+accept-language:
+en-GB,en;q=0.9
+referer:
+https://web.rubika.ir/
+sec-ch-ua:
+"Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+sec-ch-ua-mobile:
+?0
+sec-ch-ua-platform:
+"Windows"
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+
+Request URL:
+https://getdcmess.iranlms.ir/
+Request Method:
+POST
+Status Code:
+200 OK
+Remote Address:
+127.0.0.1:10809
+Referrer Policy:
+strict-origin-when-cross-origin
+access-control-allow-origin:
+*
+allow:
+GET, POST, HEAD, OPTIONS
+content-length:
+46505
+content-type:
+application/json
+date:
+Sun, 19 Jan 2025 20:12:15 GMT
+server:
+nginx/1.26.1
+vary:
+Accept, Cookie, Origin
+x-frame-options:
+SAMEORIGIN
+:authority:
+getdcmess.iranlms.ir
+:method:
+POST
+:path:
+/
+:scheme:
+https
+accept:
+application/json, text/plain, */*
+accept-encoding:
+gzip, deflate, br, zstd
+accept-language:
+en-GB,en;q=0.9
+content-length:
+149
+content-type:
+application/json
+origin:
+https://web.rubika.ir
+priority:
+u=1, i
+referer:
+https://web.rubika.ir/
+sec-ch-ua:
+"Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+sec-ch-ua-mobile:
+?0
+sec-ch-ua-platform:
+"Windows"
+sec-fetch-dest:
+empty
+sec-fetch-mode:
+cors
+sec-fetch-site:
+cross-site
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+
+Request URL:
+https://servicesbase.iranlms.ir/
+Request Method:
+POST
+Status Code:
+200 OK (from service worker)
+Referrer Policy:
+strict-origin-when-cross-origin
+access-control-allow-origin:
+https://web.rubika.ir
+allow:
+GET, POST, HEAD, OPTIONS
+content-length:
+2186
+content-type:
+application/json
+date:
+Sun, 19 Jan 2025 19:59:36 GMT
+server:
+nginx/1.26.1
+vary:
+Accept, Cookie, Origin
+x-frame-options:
+SAMEORIGIN
+accept:
+application/json, text/plain, */*
+accept-language:
+en-GB,en;q=0.9
+content-type:
+application/json
+referer:
+https://web.rubika.ir/
+sec-ch-ua:
+"Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+sec-ch-ua-mobile:
+?0
+sec-ch-ua-platform:
+"Windows"
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+
+Request URL:
+https://servicesbase.iranlms.ir/
+Request Method:
+POST
+Status Code:
+200 OK
+Remote Address:
+127.0.0.1:10809
+Referrer Policy:
+strict-origin-when-cross-origin
+access-control-allow-origin:
+https://web.rubika.ir
+allow:
+GET, POST, HEAD, OPTIONS
+content-length:
+2186
+content-type:
+application/json
+date:
+Sun, 19 Jan 2025 19:59:36 GMT
+server:
+nginx/1.26.1
+vary:
+Accept, Cookie, Origin
+x-frame-options:
+SAMEORIGIN
+:authority:
+servicesbase.iranlms.ir
+:method:
+POST
+:path:
+/
+:scheme:
+https
+accept:
+application/json, text/plain, */*
+accept-encoding:
+gzip, deflate, br, zstd
+accept-language:
+en-GB,en;q=0.9
+content-length:
+189
+content-type:
+application/json
+origin:
+https://web.rubika.ir
+priority:
+u=1, i
+referer:
+https://web.rubika.ir/
+sec-ch-ua:
+"Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+sec-ch-ua-mobile:
+?0
+sec-ch-ua-platform:
+"Windows"
+sec-fetch-dest:
+empty
+sec-fetch-mode:
+cors
+sec-fetch-site:
+cross-site
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+
+Request URL:
+https://messengerg2c226.iranlms.ir/
+Request Method:
+POST
+Status Code:
+200 OK (from service worker)
+Referrer Policy:
+strict-origin-when-cross-origin
+access-control-allow-origin:
+https://web.rubika.ir
+allow:
+GET, POST, HEAD, OPTIONS
+content-length:
+79
+content-type:
+application/json
+date:
+Sun, 19 Jan 2025 20:07:17 GMT
+server:
+nginx/1.26.0
+vary:
+Accept, Cookie, Origin
+x-frame-options:
+SAMEORIGIN
+accept:
+application/json, text/plain, */*
+accept-language:
+en-GB,en;q=0.9
+content-type:
+text/plain
+referer:
+https://web.rubika.ir/
+sec-ch-ua:
+"Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+sec-ch-ua-mobile:
+?0
+sec-ch-ua-platform:
+"Windows"
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+
+Request URL:
+https://messengerg2c226.iranlms.ir/
+Request Method:
+POST
+Status Code:
+200 OK
+Remote Address:
+127.0.0.1:10809
+Referrer Policy:
+strict-origin-when-cross-origin
+access-control-allow-origin:
+https://web.rubika.ir
+allow:
+GET, POST, HEAD, OPTIONS
+content-length:
+79
+content-type:
+application/json
+date:
+Sun, 19 Jan 2025 20:07:17 GMT
+server:
+nginx/1.26.0
+vary:
+Accept, Cookie, Origin
+x-frame-options:
+SAMEORIGIN
+:authority:
+messengerg2c226.iranlms.ir
+:method:
+POST
+:path:
+/
+:scheme:
+https
+accept:
+application/json, text/plain, */*
+accept-encoding:
+gzip, deflate, br, zstd
+accept-language:
+en-GB,en;q=0.9
+content-length:
+705
+content-type:
+text/plain
+origin:
+https://web.rubika.ir
+priority:
+u=1, i
+referer:
+https://web.rubika.ir/
+sec-ch-ua:
+"Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+sec-ch-ua-mobile:
+?0
+sec-ch-ua-platform:
+"Windows"
+sec-fetch-dest:
+empty
+sec-fetch-mode:
+cors
+sec-fetch-site:
+cross-site
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+
+equest URL:
+https://messengerg2c226.iranlms.ir/
+Request Method:
+POST
+Status Code:
+200 OK (from service worker)
+Referrer Policy:
+strict-origin-when-cross-origin
+access-control-allow-origin:
+https://web.rubika.ir
+allow:
+GET, POST, HEAD, OPTIONS
+content-length:
+103
+content-type:
+application/json
+date:
+Sun, 19 Jan 2025 20:07:17 GMT
+server:
+nginx/1.26.0
+vary:
+Accept, Cookie, Origin
+x-frame-options:
+SAMEORIGIN
+accept:
+application/json, text/plain, */*
+accept-language:
+en-GB,en;q=0.9
+content-type:
+text/plain
+referer:
+https://web.rubika.ir/
+sec-ch-ua:
+"Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+sec-ch-ua-mobile:
+?0
+sec-ch-ua-platform:
+"Windows"
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+
+equest URL:
+https://messengerg2c226.iranlms.ir/
+Request Method:
+POST
+Status Code:
+200 OK
+Remote Address:
+127.0.0.1:10809
+Referrer Policy:
+strict-origin-when-cross-origin
+access-control-allow-origin:
+https://web.rubika.ir
+allow:
+GET, POST, HEAD, OPTIONS
+content-length:
+103
+content-type:
+application/json
+date:
+Sun, 19 Jan 2025 20:07:17 GMT
+server:
+nginx/1.26.0
+vary:
+Accept, Cookie, Origin
+x-frame-options:
+SAMEORIGIN
+:authority:
+messengerg2c226.iranlms.ir
+:method:
+POST
+:path:
+/
+:scheme:
+https
+accept:
+application/json, text/plain, */*
+accept-encoding:
+gzip, deflate, br, zstd
+accept-language:
+en-GB,en;q=0.9
+content-length:
+473
+content-type:
+text/plain
+origin:
+https://web.rubika.ir
+priority:
+u=1, i
+referer:
+https://web.rubika.ir/
+sec-ch-ua:
+"Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+sec-ch-ua-mobile:
+?0
+sec-ch-ua-platform:
+"Windows"
+sec-fetch-dest:
+empty
+sec-fetch-mode:
+cors
+sec-fetch-site:
+cross-site
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+
+equest URL:
+https://web.rubika.ir/assets/img/chat-bg-br.png
+Request Method:
+GET
+Status Code:
+200 OK (from service worker)
+Referrer Policy:
+strict-origin-when-cross-origin
+accept-ranges:
+bytes
+content-length:
+1920
+content-type:
+image/png
+date:
+Sat, 18 Jan 2025 16:34:16 GMT
+etag:
+"80e1fe7446d0da1:0"
+last-modified:
+Sun, 07 Jul 2024 08:19:59 GMT
+server:
+Microsoft-IIS/10.0
+x-powered-by:
+ASP.NET
+accept-language:
+en-GB,en;q=0.9
+referer:
+https://web.rubika.ir/styles.09e1f3eb3fd5158f7f3b.css
+sec-ch-ua:
+"Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+sec-ch-ua-mobile:
+?0
+sec-ch-ua-platform:
+"Windows"
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+
+Request URL:
+https://web.rubika.ir/assets/img/chat-bg-pattern-light.png
+Request Method:
+GET
+Status Code:
+200 OK (from service worker)
+Referrer Policy:
+strict-origin-when-cross-origin
+accept-ranges:
+bytes
+content-length:
+406366
+content-type:
+image/png
+date:
+Sat, 18 Jan 2025 16:34:16 GMT
+etag:
+"803c91d55a45db1:0"
+last-modified:
+Tue, 03 Dec 2024 08:10:37 GMT
+server:
+Microsoft-IIS/10.0
+x-powered-by:
+ASP.NET
+accept-language:
+en-GB,en;q=0.9
+referer:
+https://web.rubika.ir/styles.09e1f3eb3fd5158f7f3b.css
+sec-ch-ua:
+"Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+sec-ch-ua-mobile:
+?0
+sec-ch-ua-platform:
+"Windows"
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+
+Request URL:
+https://web.rubika.ir/assets/fonts/rbico.ttf?2vj0av
+Request Method:
+GET
+Status Code:
+200 OK (from service worker)
+Referrer Policy:
+strict-origin-when-cross-origin
+accept-ranges:
+bytes
+content-length:
+61360
+content-type:
+application/octet-stream
+date:
+Sat, 18 Jan 2025 16:34:01 GMT
+etag:
+"803c91d55a45db1:0"
+last-modified:
+Tue, 03 Dec 2024 08:10:37 GMT
+server:
+Microsoft-IIS/10.0
+x-powered-by:
+ASP.NET
+accept-language:
+en-GB,en;q=0.9
+origin:
+https://web.rubika.ir
+referer:
+https://web.rubika.ir/styles.09e1f3eb3fd5158f7f3b.css
+sec-ch-ua:
+"Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+sec-ch-ua-mobile:
+?0
+sec-ch-ua-platform:
+"Windows"
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+
+Request URL:
+https://web.rubika.ir/assets/fonts/IRANSansWeb(FaNum).woff2
+Request Method:
+GET
+Status Code:
+200 OK (from service worker)
+Referrer Policy:
+strict-origin-when-cross-origin
+accept-ranges:
+bytes
+content-length:
+31304
+content-type:
+application/font-woff2
+date:
+Sat, 18 Jan 2025 16:34:16 GMT
+etag:
+"0c79eb9f3bda1:0"
+last-modified:
+Tue, 31 Oct 2023 12:13:58 GMT
+server:
+Microsoft-IIS/10.0
+x-powered-by:
+ASP.NET
+accept-language:
+en-GB,en;q=0.9
+origin:
+https://web.rubika.ir
+referer:
+https://web.rubika.ir/styles.09e1f3eb3fd5158f7f3b.css
+sec-ch-ua:
+"Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+sec-ch-ua-mobile:
+?0
+sec-ch-ua-platform:
+"Windows"
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+
+Request URL:
+https://web.rubika.ir/assets/fonts/IRANSansWeb(FaNum)_Medium.woff2
+Request Method:
+GET
+Status Code:
+200 OK (from service worker)
+Referrer Policy:
+strict-origin-when-cross-origin
+accept-ranges:
+bytes
+content-length:
+28912
+content-type:
+application/font-woff2
+date:
+Sat, 18 Jan 2025 16:34:16 GMT
+etag:
+"0c79eb9f3bda1:0"
+last-modified:
+Tue, 31 Oct 2023 12:13:58 GMT
+server:
+Microsoft-IIS/10.0
+x-powered-by:
+ASP.NET
+accept-language:
+en-GB,en;q=0.9
+origin:
+https://web.rubika.ir
+referer:
+https://web.rubika.ir/styles.09e1f3eb3fd5158f7f3b.css
+sec-ch-ua:
+"Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+sec-ch-ua-mobile:
+?0
+sec-ch-ua-platform:
+"Windows"
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+
+Request URL:
+chrome-extension://majdfhpaihoncoakbjgbdhglocklcgno/assets/main.tsx-nR3n8d4V.js
+Request Method:
+GET
+Status Code:
+200 OK
+Referrer Policy:
+strict-origin-when-cross-origin
+access-control-allow-origin:
+*
+cache-control:
+no-cache
+content-security-policy:
+script-src 'self'; object-src 'self'
+content-type:
+text/javascript
+cross-origin-resource-policy:
+cross-origin
+
+etag:
+"O0qEMh7+oA1ckgB5O2uwzyYyhiA="
+last-modified:
+Tue, 01 Jan 1980 00:00:00 GMT
+origin:
+https://web.rubika.ir
+referer:
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+
+Request URL:
+chrome-extension://majdfhpaihoncoakbjgbdhglocklcgno/assets/main.tsx-B9FKcpP0.js
+Request Method:
+GET
+Status Code:
+200 OK
+Referrer Policy:
+strict-origin-when-cross-origin
+access-control-allow-origin:
+*
+cache-control:
+no-cache
+content-security-policy:
+script-src 'self'; object-src 'self'
+content-type:
+text/javascript
+cross-origin-resource-policy:
+cross-origin
+etag:
+"O0qEMh7+oA1ckgB5O2uwzyYyhiA="
+last-modified:
+Tue, 01 Jan 1980 00:00:00 GMT
+
+origin:
+https://web.rubika.ir
+referer:
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+
+Request URL:
+chrome-extension://majdfhpaihoncoakbjgbdhglocklcgno/assets/client-Dv7fwF0B.js
+Request Method:
+GET
+Status Code:
+200 OK
+Referrer Policy:
+strict-origin-when-cross-origin
+access-control-allow-origin:
+*
+cache-control:
+no-cache
+content-security-policy:
+script-src 'self'; object-src 'self'
+content-type:
+text/javascript
+cross-origin-resource-policy:
+cross-origin
+
+etag:
+"O0qEMh7+oA1ckgB5O2uwzyYyhiA="
+last-modified:
+Tue, 01 Jan 1980 00:00:00 GMT
+origin:
+https://web.rubika.ir
+referer:
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+
+Request URL:
+chrome-extension://majdfhpaihoncoakbjgbdhglocklcgno/assets/index-C0t_nZK7.js
+Request Method:
+GET
+Status Code:
+200 OK
+Referrer Policy:
+strict-origin-when-cross-origin
+access-control-allow-origin:
+*
+cache-control:
+no-cache
+content-security-policy:
+script-src 'self'; object-src 'self'
+content-type:
+text/javascript
+
+cross-origin-resource-policy:
+cross-origin
+etag:
+"O0qEMh7+oA1ckgB5O2uwzyYyhiA="
+last-modified:
+Tue, 01 Jan 1980 00:00:00 GMT
+origin:
+https://web.rubika.ir
+referer:
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+
+Request URL:
+https://web.rubika.ir/manifest.webmanifest
+Request Method:
+GET
+Status Code:
+200 OK (from service worker)
+Referrer Policy:
+strict-origin-when-cross-origin
+accept-ranges:
+bytes
+content-length:
+1392
+content-type:
+application/manifest+json
+date:
+Sat, 18 Jan 2025 16:33:53 GMT
+etag:
+"803c91d55a45db1:0"
+last-modified:
+Tue, 03 Dec 2024 08:10:37 GMT
+server:
+Microsoft-IIS/10.0
+x-powered-by:
+ASP.NET
+accept-language:
+en-GB,en;q=0.9
+referer:
+https://web.rubika.ir/
+sec-ch-ua:
+"Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+sec-ch-ua-mobile:
+?0
+sec-ch-ua-platform:
+"Windows"
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+
+Request URL:
+https://messengerg2c226.iranlms.ir/
+Request Method:
+POST
+Status Code:
+200 OK (from service worker)
+Referrer Policy:
+strict-origin-when-cross-origin
+access-control-allow-origin:
+https://web.rubika.ir
+allow:
+GET, POST, HEAD, OPTIONS
+content-length:
+103
+content-type:
+application/json
+date:
+Sun, 19 Jan 2025 20:07:17 GMT
+server:
+nginx/1.26.0
+vary:
+Accept, Cookie, Origin
+x-frame-options:
+SAMEORIGIN
+accept:
+application/json, text/plain, */*
+accept-language:
+en-GB,en;q=0.9
+content-type:
+text/plain
+referer:
+https://web.rubika.ir/
+sec-ch-ua:
+"Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+sec-ch-ua-mobile:
+?0
+sec-ch-ua-platform:
+"Windows"
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+
+Request URL:
+https://messengerg2c226.iranlms.ir/
+Request Method:
+POST
+Status Code:
+200 OK
+Remote Address:
+127.0.0.1:10809
+Referrer Policy:
+strict-origin-when-cross-origin
+access-control-allow-origin:
+https://web.rubika.ir
+allow:
+GET, POST, HEAD, OPTIONS
+content-length:
+103
+content-type:
+application/json
+date:
+Sun, 19 Jan 2025 20:07:17 GMT
+server:
+nginx/1.26.0
+vary:
+Accept, Cookie, Origin
+x-frame-options:
+SAMEORIGIN
+:authority:
+messengerg2c226.iranlms.ir
+:method:
+POST
+:path:
+/
+:scheme:
+https
+accept:
+application/json, text/plain, */*
+accept-encoding:
+gzip, deflate, br, zstd
+accept-language:
+en-GB,en;q=0.9
+content-length:
+473
+content-type:
+text/plain
+origin:
+https://web.rubika.ir
+priority:
+u=1, i
+referer:
+https://web.rubika.ir/
+sec-ch-ua:
+"Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+sec-ch-ua-mobile:
+?0
+sec-ch-ua-platform:
+"Windows"
+sec-fetch-dest:
+empty
+sec-fetch-mode:
+cors
+sec-fetch-site:
+cross-site
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+Request URL:
+https://messengerg2c226.iranlms.ir/
+Request Method:
+POST
+Status Code:
+200 OK (from service worker)
+Referrer Policy:
+strict-origin-when-cross-origin
+access-control-allow-origin:
+https://web.rubika.ir
+allow:
+GET, POST, HEAD, OPTIONS
+content-length:
+123023
+content-type:
+application/json
+date:
+Sun, 19 Jan 2025 20:07:18 GMT
+server:
+nginx/1.26.0
+vary:
+Accept, Cookie, Origin
+x-frame-options:
+SAMEORIGIN
+accept:
+application/json, text/plain, */*
+accept-language:
+en-GB,en;q=0.9
+content-type:
+text/plain
+referer:
+https://web.rubika.ir/
+sec-ch-ua:
+"Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+sec-ch-ua-mobile:
+?0
+sec-ch-ua-platform:
+"Windows"
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+
+Request URL:
+https://messengerg2c226.iranlms.ir/
+Request Method:
+POST
+Status Code:
+200 OK
+Remote Address:
+127.0.0.1:10809
+Referrer Policy:
+strict-origin-when-cross-origin
+access-control-allow-origin:
+https://web.rubika.ir
+allow:
+GET, POST, HEAD, OPTIONS
+content-length:
+123023
+content-type:
+application/json
+date:
+Sun, 19 Jan 2025 20:07:18 GMT
+server:
+nginx/1.26.0
+vary:
+Accept, Cookie, Origin
+x-frame-options:
+SAMEORIGIN
+:authority:
+messengerg2c226.iranlms.ir
+:method:
+POST
+:path:
+/
+:scheme:
+https
+accept:
+application/json, text/plain, */*
+accept-encoding:
+gzip, deflate, br, zstd
+accept-language:
+en-GB,en;q=0.9
+content-length:
+473
+content-type:
+text/plain
+origin:
+https://web.rubika.ir
+priority:
+u=1, i
+referer:
+https://web.rubika.ir/
+sec-ch-ua:
+"Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+sec-ch-ua-mobile:
+?0
+sec-ch-ua-platform:
+"Windows"
+sec-fetch-dest:
+empty
+sec-fetch-mode:
+cors
+sec-fetch-site:
+cross-site
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+Request URL:
+https://messengerg2c226.iranlms.ir/
+Request Method:
+POST
+Status Code:
+200 OK (from service worker)
+Referrer Policy:
+strict-origin-when-cross-origin
+access-control-allow-origin:
+https://web.rubika.ir
+allow:
+GET, POST, HEAD, OPTIONS
+content-length:
+2215
+content-type:
+application/json
+date:
+Sun, 19 Jan 2025 20:07:18 GMT
+server:
+nginx/1.26.0
+vary:
+Accept, Cookie, Origin
+x-frame-options:
+SAMEORIGIN
+accept:
+application/json, text/plain, */*
+accept-language:
+en-GB,en;q=0.9
+content-type:
+text/plain
+referer:
+https://web.rubika.ir/
+sec-ch-ua:
+"Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+sec-ch-ua-mobile:
+?0
+sec-ch-ua-platform:
+"Windows"
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+
+Request URL:
+https://messengerg2c226.iranlms.ir/
+Request Method:
+POST
+Status Code:
+200 OK
+Remote Address:
+127.0.0.1:10809
+Referrer Policy:
+strict-origin-when-cross-origin
+access-control-allow-origin:
+https://web.rubika.ir
+allow:
+GET, POST, HEAD, OPTIONS
+content-length:
+2215
+content-type:
+application/json
+date:
+Sun, 19 Jan 2025 20:07:18 GMT
+server:
+nginx/1.26.0
+vary:
+Accept, Cookie, Origin
+x-frame-options:
+SAMEORIGIN
+:authority:
+messengerg2c226.iranlms.ir
+:method:
+POST
+:path:
+/
+:scheme:
+https
+accept:
+application/json, text/plain, */*
+accept-encoding:
+gzip, deflate, br, zstd
+accept-language:
+en-GB,en;q=0.9
+content-length:
+473
+content-type:
+text/plain
+origin:
+https://web.rubika.ir
+priority:
+u=1, i
+referer:
+https://web.rubika.ir/
+sec-ch-ua:
+"Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+sec-ch-ua-mobile:
+?0
+sec-ch-ua-platform:
+"Windows"
+sec-fetch-dest:
+empty
+sec-fetch-mode:
+cors
+sec-fetch-site:
+cross-site
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+
+Request URL:
+https://web.rubika.ir/assets/icons/icon-144x144.png
+Request Method:
+GET
+Status Code:
+200 OK (from service worker)
+Referrer Policy:
+strict-origin-when-cross-origin
+accept-ranges:
+bytes
+content-length:
+10668
+content-type:
+image/png
+date:
+Sat, 18 Jan 2025 16:33:53 GMT
+etag:
+"803c91d55a45db1:0"
+last-modified:
+Tue, 03 Dec 2024 08:10:37 GMT
+server:
+Microsoft-IIS/10.0
+x-powered-by:
+ASP.NET
+accept-language:
+en-GB,en;q=0.9
+referer:
+https://web.rubika.ir/
+sec-ch-ua:
+"Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+sec-ch-ua-mobile:
+?0
+sec-ch-ua-platform:
+"Windows"
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+
+Request URL:
+https://web.rubika.ir/assets/fonts/IRANSansWeb(FaNum)_Bold.woff2
+Request Method:
+GET
+Status Code:
+200 OK (from service worker)
+Referrer Policy:
+strict-origin-when-cross-origin
+accept-ranges:
+bytes
+content-length:
+28856
+content-type:
+application/font-woff2
+date:
+Sat, 18 Jan 2025 16:34:20 GMT
+etag:
+"0c79eb9f3bda1:0"
+last-modified:
+Tue, 31 Oct 2023 12:13:58 GMT
+server:
+Microsoft-IIS/10.0
+x-powered-by:
+ASP.NET
+accept-language:
+en-GB,en;q=0.9
+origin:
+https://web.rubika.ir
+referer:
+https://web.rubika.ir/styles.09e1f3eb3fd5158f7f3b.css
+sec-ch-ua:
+"Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+sec-ch-ua-mobile:
+?0
+sec-ch-ua-platform:
+"Windows"
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+
+Request URL:
+https://pubup1.rubika.ir/GetFile.ashx
+Request Method:
+POST
+Status Code:
+200 OK (from service worker)
+Referrer Policy:
+strict-origin-when-cross-origin
+access-control-allow-headers:
+Origin, X-Requested-With, Content-Type, Accept,auth, file_id, access_hash_rec, start_index, last_index,part_number, total_part, access_hash_send, file-id, access-hash-rec, start-index, last-index, part-number, total-part, access-hash-send, chunk-size
+access-control-allow-origin:
+*
+cache-control:
+private
+date:
+Sun, 19 Jan 2025 20:07:22 GMT
+server:
+Microsoft-IIS/10.0
+total_length:
+15457
+x-aspnet-version:
+4.0.30319
+x-powered-by:
+ASP.NET
+accept:
+application/json, text/plain, */*
+accept-language:
+en-GB,en;q=0.9
+access-hash-rec:
+0725060613682089113037923119202025011920
+auth:
+rldgeiafmmdinvdvgukwbpvxmvvsyciq
+content-type:
+text/plain
+file-id:
+60506522542269
+last-index:
+262144
+referer:
+https://web.rubika.ir/
+sec-ch-ua:
+"Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+sec-ch-ua-mobile:
+?0
+sec-ch-ua-platform:
+"Windows"
+start-index:
+0
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+
+Request URL:
+https://pubup1.rubika.ir/GetFile.ashx
+Request Method:
+OPTIONS
+Status Code:
+200 OK
+Remote Address:
+127.0.0.1:10809
+Referrer Policy:
+strict-origin-when-cross-origin
+access-control-allow-headers:
+Origin, X-Requested-With, Content-Type, Accept,auth, file_id, access_hash_rec, start_index, last_index,part_number, total_part, access_hash_send, file-id, access-hash-rec, start-index, last-index, part-number, total-part, access-hash-send, chunk-size
+access-control-allow-origin:
+*
+allow:
+OPTIONS, TRACE, GET, HEAD, POST
+content-length:
+0
+date:
+Sun, 19 Jan 2025 20:07:22 GMT
+public:
+OPTIONS, TRACE, GET, HEAD, POST
+server:
+Microsoft-IIS/10.0
+x-powered-by:
+ASP.NET
+:authority:
+pubup1.rubika.ir
+:method:
+OPTIONS
+:path:
+/GetFile.ashx
+:scheme:
+https
+accept:
+*/*
+accept-encoding:
+gzip, deflate, br, zstd
+accept-language:
+en-GB,en;q=0.9,en-US;q=0.8,fa;q=0.7,zh-CN;q=0.6,zh;q=0.5,pl;q=0.4
+access-control-request-headers:
+access-hash-rec,auth,file-id,last-index,start-index
+access-control-request-method:
+POST
+origin:
+https://web.rubika.ir
+priority:
+u=1, i
+referer:
+https://web.rubika.ir/
+sec-fetch-dest:
+empty
+sec-fetch-mode:
+cors
+sec-fetch-site:
+same-site
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+
+Request URL:
+chrome-extension://gppongmhjkpfnbhagpmjfkannfbllamg/js/js.js
+Request Method:
+GET
+Status Code:
+200 OK (from service worker)
+Referrer Policy:
+strict-origin-when-cross-origin
+access-control-allow-origin:
+*
+cache-control:
+no-cache
+content-security-policy:
+script-src 'self'; object-src 'self'
+content-type:
+text/javascript
+cross-origin-resource-policy:
+cross-origin
+etag:
+"O0qEMh7+oA1ckgB5O2uwzyYyhiA="
+
+last-modified:
+Tue, 01 Jan 1980 00:00:00 GMT
+referer:
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+
+Request URL:
+chrome-extension://gppongmhjkpfnbhagpmjfkannfbllamg/js/js.js
+Request Method:
+GET
+Status Code:
+200 OK
+Referrer Policy:
+strict-origin-when-cross-origin
+access-control-allow-origin:
+*
+cache-control:
+no-cache
+content-security-policy:
+script-src 'self'; object-src 'self'
+content-type:
+text/javascript
+cross-origin-resource-policy:
+cross-origin
+etag:
+"O0qEMh7+oA1ckgB5O2uwzyYyhiA="
+last-modified:
+Tue, 01 Jan 1980 00:00:00 GMT
+accept:
+*/*
+referer:
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+
+Request URL:
+chrome-extension://gppongmhjkpfnbhagpmjfkannfbllamg/js/dom.js
+Request Method:
+GET
+Status Code:
+200 OK (from service worker)
+Referrer Policy:
+strict-origin-when-cross-origin
+access-control-allow-origin:
+*
+cache-control:
+no-cache
+content-security-policy:
+script-src 'self'; object-src 'self'
+content-type:
+text/javascript
+cross-origin-resource-policy:
+cross-origin
+
+etag:
+"O0qEMh7+oA1ckgB5O2uwzyYyhiA="
+last-modified:
+Tue, 01 Jan 1980 00:00:00 GMT
+referer:
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+
+Request URL:
+chrome-extension://gppongmhjkpfnbhagpmjfkannfbllamg/js/dom.js
+Request Method:
+GET
+Status Code:
+200 OK
+Referrer Policy:
+strict-origin-when-cross-origin
+access-control-allow-origin:
+*
+cache-control:
+no-cache
+content-security-policy:
+script-src 'self'; object-src 'self'
+content-type:
+text/javascript
+cross-origin-resource-policy:
+cross-origin
+etag:
+"O0qEMh7+oA1ckgB5O2uwzyYyhiA="
+
+last-modified:
+Tue, 01 Jan 1980 00:00:00 GMT
+accept:
+*/*
+referer:
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+
+Request URL:
+chrome-extension://gppongmhjkpfnbhagpmjfkannfbllamg/js/js.js
+Request Method:
+GET
+Status Code:
+200 OK (from service worker)
+Referrer Policy:
+strict-origin-when-cross-origin
+access-control-allow-origin:
+*
+cache-control:
+no-cache
+content-security-policy:
+script-src 'self'; object-src 'self'
+
+content-type:
+text/javascript
+cross-origin-resource-policy:
+cross-origin
+etag:
+"O0qEMh7+oA1ckgB5O2uwzyYyhiA="
+last-modified:
+Tue, 01 Jan 1980 00:00:00 GMT
+referer:
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+
+Request URL:
+chrome-extension://gppongmhjkpfnbhagpmjfkannfbllamg/js/js.js
+Request Method:
+GET
+Status Code:
+200 OK
+Referrer Policy:
+strict-origin-when-cross-origin
+access-control-allow-origin:
+*
+cache-control:
+no-cache
+content-security-policy:
+script-src 'self'; object-src 'self'
+content-type:
+text/javascript
+cross-origin-resource-policy:
+cross-origin
+etag:
+"O0qEMh7+oA1ckgB5O2uwzyYyhiA="
+last-modified:
+Tue, 01 Jan 1980 00:00:00 GMT
+
+accept:
+*/*
+referer:
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36Request URL:
+chrome-extension://gppongmhjkpfnbhagpmjfkannfbllamg/js/js.js
+Request Method:
+GET
+Status Code:
+200 OK
+Referrer Policy:
+strict-origin-when-cross-origin
+access-control-allow-origin:
+*
+cache-control:
+no-cache
+content-security-policy:
+script-src 'self'; object-src 'self'
+content-type:
+text/javascript
+cross-origin-resource-policy:
+cross-origin
+etag:
+"O0qEMh7+oA1ckgB5O2uwzyYyhiA="
+last-modified:
+Tue, 01 Jan 1980 00:00:00 GMT
+
+accept:
+*/*
+referer:
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+
+Request URL:
+chrome-extension://gppongmhjkpfnbhagpmjfkannfbllamg/js/dom.js
+Request Method:
+GET
+Status Code:
+200 OK (from service worker)
+Referrer Policy:
+strict-origin-when-cross-origin
+access-control-allow-origin:
+*
+cache-control:
+no-cache
+content-security-policy:
+script-src 'self'; object-src 'self'
+content-type:
+text/javascript
+
+cross-origin-resource-policy:
+cross-origin
+etag:
+"O0qEMh7+oA1ckgB5O2uwzyYyhiA="
+last-modified:
+Tue, 01 Jan 1980 00:00:00 GMT
+referer:
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+
+Request URL:
+chrome-extension://gppongmhjkpfnbhagpmjfkannfbllamg/js/dom.js
+Request Method:
+GET
+Status Code:
+200 OK
+Referrer Policy:
+strict-origin-when-cross-origin
+access-control-allow-origin:
+*
+cache-control:
+no-cache
+content-security-policy:
+script-src 'self'; object-src 'self'
+content-type:
+text/javascript
+cross-origin-resource-policy:
+cross-origin
+etag:
+"O0qEMh7+oA1ckgB5O2uwzyYyhiA="
+
+last-modified:
+Tue, 01 Jan 1980 00:00:00 GMT
+accept:
+*/*
+referer:
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+
+Request URL:
+https://web.rubika.ir/assets/img/emojisprite_3.png
+Request Method:
+GET
+Status Code:
+200 OK (from service worker)
+Referrer Policy:
+strict-origin-when-cross-origin
+accept-ranges:
+bytes
+content-length:
+386536
+content-type:
+image/png
+date:
+Sat, 18 Jan 2025 16:34:53 GMT
+etag:
+"048fac889d1d81:0"
+last-modified:
+Mon, 26 Sep 2022 09:24:32 GMT
+server:
+Microsoft-IIS/10.0
+x-powered-by:
+ASP.NET
+accept-language:
+en-GB,en;q=0.9
+referer:
+https://web.rubika.ir/styles.09e1f3eb3fd5158f7f3b.css
+sec-ch-ua:
+"Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+sec-ch-ua-mobile:
+?0
+sec-ch-ua-platform:
+"Windows"
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+Request URL:
+wss://nsocket11.iranlms.ir:80/
+Request Method:
+GET
+Status Code:
+101 Switching Protocols
+connection:
+Upgrade
+sec-websocket-accept:
+8plEjBxkDqkpnMx4JkF1rX8gWd4=
+upgrade:
+websocket
+accept-encoding:
+gzip, deflate, br, zstd
+accept-language:
+en-GB,en;q=0.9,en-US;q=0.8,fa;q=0.7,zh-CN;q=0.6,zh;q=0.5,pl;q=0.4
+cache-control:
+no-cache
+connection:
+Upgrade
+host:
+nsocket11.iranlms.ir:80
+origin:
+https://web.rubika.ir
+pragma:
+no-cache
+sec-websocket-extensions:
+permessage-deflate; client_max_window_bits
+sec-websocket-key:
+XmRo4FooFaEsWjCa+EAv+Q==
+sec-websocket-version:
+13
+upgrade:
+websocket
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+Request URL:
+https://messenger798.iranlms.ir/GetFile.ashx
+Request Method:
+OPTIONS
+Status Code:
+200 OK
+Remote Address:
+127.0.0.1:10809
+Referrer Policy:
+strict-origin-when-cross-origin
+access-control-allow-headers:
+Origin, X-Requested-With, Content-Type, Accept,auth, file_id, access_hash_rec, start_index, last_index,part_number, total_part, access_hash_send, file-id, access-hash-rec, start-index, last-index, part-number, total-part, access-hash-send, chunk-size
+access-control-allow-origin:
+*
+allow:
+OPTIONS, TRACE, GET, HEAD, POST
+content-length:
+0
+date:
+Sun, 19 Jan 2025 20:07:21 GMT
+public:
+OPTIONS, TRACE, GET, HEAD, POST
+server:
+Microsoft-IIS/10.0
+x-powered-by:
+ASP.NET
+:authority:
+messenger798.iranlms.ir
+:method:
+OPTIONS
+:path:
+/GetFile.ashx
+:scheme:
+https
+accept:
+*/*
+accept-encoding:
+gzip, deflate, br, zstd
+accept-language:
+en-GB,en;q=0.9,en-US;q=0.8,fa;q=0.7,zh-CN;q=0.6,zh;q=0.5,pl;q=0.4
+access-control-request-headers:
+access-hash-rec,auth,file-id,last-index,start-index
+access-control-request-method:
+POST
+origin:
+https://web.rubika.ir
+priority:
+u=1, i
+referer:
+https://web.rubika.ir/
+sec-fetch-dest:
+empty
+sec-fetch-mode:
+cors
+sec-fetch-site:
+cross-site
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+
+Request URL:
+https://messenger882.iranlms.ir/GetFile.ashx
+Request Method:
+POST
+Status Code:
+200 OK (from service worker)
+Referrer Policy:
+strict-origin-when-cross-origin
+access-control-allow-headers:
+Origin, X-Requested-With, Content-Type, Accept,auth, file_id, access_hash_rec, start_index, last_index,part_number, total_part, access_hash_send, file-id, access-hash-rec, start-index, last-index, part-number, total-part, access-hash-send, chunk-size
+access-control-allow-origin:
+*
+cache-control:
+private
+date:
+Sun, 19 Jan 2025 20:07:19 GMT
+server:
+Microsoft-IIS/10.0
+total_length:
+8926
+x-aspnet-version:
+4.0.30319
+x-powered-by:
+ASP.NET
+accept:
+application/json, text/plain, */*
+accept-language:
+en-GB,en;q=0.9
+access-hash-rec:
+3674644135394207038405378043672024073020
+auth:
+rldgeiafmmdinvdvgukwbpvxmvvsyciq
+content-type:
+text/plain
+file-id:
+48342353785089
+last-index:
+262144
+referer:
+https://web.rubika.ir/
+sec-ch-ua:
+"Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+sec-ch-ua-mobile:
+?0
+sec-ch-ua-platform:
+"Windows"
+start-index:
+0
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+
+Request URL:
+https://messenger912.iranlms.ir/GetFile.ashx
+Request Method:
+POST
+Status Code:
+200 OK (from service worker)
+Referrer Policy:
+strict-origin-when-cross-origin
+access-control-allow-headers:
+Origin, X-Requested-With, Content-Type, Accept,auth, file_id, access_hash_rec, start_index, last_index,part_number, total_part, access_hash_send, file-id, access-hash-rec, start-index, last-index, part-number, total-part, access-hash-send, chunk-size
+access-control-allow-origin:
+*
+cache-control:
+private
+date:
+Sun, 19 Jan 2025 20:07:20 GMT
+server:
+Microsoft-IIS/10.0
+total_length:
+5249
+x-aspnet-version:
+4.0.30319
+x-powered-by:
+ASP.NET
+accept:
+application/json, text/plain, */*
+accept-language:
+en-GB,en;q=0.9
+access-hash-rec:
+4263503175480983023284675437702025011000
+auth:
+rldgeiafmmdinvdvgukwbpvxmvvsyciq
+content-type:
+text/plain
+file-id:
+60166183777029
+last-index:
+262144
+referer:
+https://web.rubika.ir/
+sec-ch-ua:
+"Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+sec-ch-ua-mobile:
+?0
+sec-ch-ua-platform:
+"Windows"
+start-index:
+0
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+
+Request URL:
+https://messenger853.iranlms.ir/GetFile.ashx
+Request Method:
+POST
+Status Code:
+200 OK (from service worker)
+Referrer Policy:
+strict-origin-when-cross-origin
+access-control-allow-headers:
+Origin, X-Requested-With, Content-Type, Accept,auth, file_id, access_hash_rec, start_index, last_index,part_number, total_part, access_hash_send, file-id, access-hash-rec, start-index, last-index, part-number, total-part, access-hash-send, chunk-size
+access-control-allow-origin:
+*
+cache-control:
+private
+date:
+Sun, 19 Jan 2025 20:06:15 GMT
+server:
+Microsoft-IIS/10.0
+total_length:
+5249
+x-aspnet-version:
+4.0.30319
+x-powered-by:
+ASP.NET
+accept:
+application/json, text/plain, */*
+accept-language:
+en-GB,en;q=0.9
+access-hash-rec:
+1358579615646450406625484714942025010922
+auth:
+rldgeiafmmdinvdvgukwbpvxmvvsyciq
+content-type:
+text/plain
+file-id:
+60164188990779
+last-index:
+262144
+referer:
+https://web.rubika.ir/
+sec-ch-ua:
+"Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+sec-ch-ua-mobile:
+?0
+sec-ch-ua-platform:
+"Windows"
+start-index:
+0
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+
+Request URL:
+https://messenger882.iranlms.ir/GetFile.ashx
+Request Method:
+POST
+Status Code:
+200 OK (from service worker)
+Referrer Policy:
+strict-origin-when-cross-origin
+access-control-allow-headers:
+Origin, X-Requested-With, Content-Type, Accept,auth, file_id, access_hash_rec, start_index, last_index,part_number, total_part, access_hash_send, file-id, access-hash-rec, start-index, last-index, part-number, total-part, access-hash-send, chunk-size
+access-control-allow-origin:
+*
+cache-control:
+private
+date:
+Sun, 19 Jan 2025 20:07:19 GMT
+server:
+Microsoft-IIS/10.0
+total_length:
+4816
+x-aspnet-version:
+4.0.30319
+x-powered-by:
+ASP.NET
+accept:
+application/json, text/plain, */*
+accept-language:
+en-GB,en;q=0.9
+access-hash-rec:
+0171640758648056301947112066332024092923
+auth:
+rldgeiafmmdinvdvgukwbpvxmvvsyciq
+content-type:
+text/plain
+file-id:
+52529549215211
+last-index:
+262144
+referer:
+https://web.rubika.ir/
+sec-ch-ua:
+"Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+sec-ch-ua-mobile:
+?0
+sec-ch-ua-platform:
+"Windows"
+start-index:
+0
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+Request URL:
+https://messenger882.iranlms.ir/GetFile.ashx
+Request Method:
+OPTIONS
+Status Code:
+200 OK
+Remote Address:
+127.0.0.1:10809
+Referrer Policy:
+strict-origin-when-cross-origin
+access-control-allow-headers:
+Origin, X-Requested-With, Content-Type, Accept,auth, file_id, access_hash_rec, start_index, last_index,part_number, total_part, access_hash_send, file-id, access-hash-rec, start-index, last-index, part-number, total-part, access-hash-send, chunk-size
+access-control-allow-origin:
+*
+allow:
+OPTIONS, TRACE, GET, HEAD, POST
+content-length:
+0
+date:
+Sun, 19 Jan 2025 20:07:19 GMT
+public:
+OPTIONS, TRACE, GET, HEAD, POST
+server:
+Microsoft-IIS/10.0
+x-powered-by:
+ASP.NET
+:authority:
+messenger882.iranlms.ir
+:method:
+OPTIONS
+:path:
+/GetFile.ashx
+:scheme:
+https
+accept:
+*/*
+accept-encoding:
+gzip, deflate, br, zstd
+accept-language:
+en-GB,en;q=0.9,en-US;q=0.8,fa;q=0.7,zh-CN;q=0.6,zh;q=0.5,pl;q=0.4
+access-control-request-headers:
+access-hash-rec,auth,file-id,last-index,start-index
+access-control-request-method:
+POST
+origin:
+https://web.rubika.ir
+priority:
+u=1, i
+referer:
+https://web.rubika.ir/
+sec-fetch-dest:
+empty
+sec-fetch-mode:
+cors
+sec-fetch-site:
+cross-site
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+
+Request URL:
+https://messenger882.iranlms.ir/GetFile.ashx
+Request Method:
+OPTIONS
+Status Code:
+200 OK
+Remote Address:
+127.0.0.1:10809
+Referrer Policy:
+strict-origin-when-cross-origin
+access-control-allow-headers:
+Origin, X-Requested-With, Content-Type, Accept,auth, file_id, access_hash_rec, start_index, last_index,part_number, total_part, access_hash_send, file-id, access-hash-rec, start-index, last-index, part-number, total-part, access-hash-send, chunk-size
+access-control-allow-origin:
+*
+allow:
+OPTIONS, TRACE, GET, HEAD, POST
+content-length:
+0
+date:
+Sun, 19 Jan 2025 20:07:19 GMT
+public:
+OPTIONS, TRACE, GET, HEAD, POST
+server:
+Microsoft-IIS/10.0
+x-powered-by:
+ASP.NET
+:authority:
+messenger882.iranlms.ir
+:method:
+OPTIONS
+:path:
+/GetFile.ashx
+:scheme:
+https
+accept:
+*/*
+accept-encoding:
+gzip, deflate, br, zstd
+accept-language:
+en-GB,en;q=0.9,en-US;q=0.8,fa;q=0.7,zh-CN;q=0.6,zh;q=0.5,pl;q=0.4
+access-control-request-headers:
+access-hash-rec,auth,file-id,last-index,start-index
+access-control-request-method:
+POST
+origin:
+https://web.rubika.ir
+priority:
+u=1, i
+referer:
+https://web.rubika.ir/
+sec-fetch-dest:
+empty
+sec-fetch-mode:
+cors
+sec-fetch-site:
+cross-site
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+
+Request URL:
+https://messenger900.iranlms.ir/GetFile.ashx
+Request Method:
+POST
+Status Code:
+200 OK (from service worker)
+Referrer Policy:
+strict-origin-when-cross-origin
+access-control-allow-headers:
+Origin, X-Requested-With, Content-Type, Accept,auth, file_id, access_hash_rec, start_index, last_index,part_number, total_part, access_hash_send, file-id, access-hash-rec, start-index, last-index, part-number, total-part, access-hash-send, chunk-size
+access-control-allow-origin:
+*
+cache-control:
+private
+date:
+Sun, 19 Jan 2025 20:07:21 GMT
+server:
+Microsoft-IIS/10.0
+total_length:
+7279
+x-aspnet-version:
+4.0.30319
+x-powered-by:
+ASP.NET
+accept:
+application/json, text/plain, */*
+accept-language:
+en-GB,en;q=0.9
+access-hash-rec:
+9502507190046921056833306395862024122912
+auth:
+rldgeiafmmdinvdvgukwbpvxmvvsyciq
+content-type:
+text/plain
+file-id:
+58740761626632
+last-index:
+262144
+referer:
+https://web.rubika.ir/
+sec-ch-ua:
+"Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+sec-ch-ua-mobile:
+?0
+sec-ch-ua-platform:
+"Windows"
+start-index:
+0
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+Request URL:
+https://messenger881.iranlms.ir/GetFile.ashx
+Request Method:
+POST
+Status Code:
+200 OK (from service worker)
+Referrer Policy:
+strict-origin-when-cross-origin
+access-control-allow-headers:
+Origin, X-Requested-With, Content-Type, Accept,auth, file_id, access_hash_rec, start_index, last_index,part_number, total_part, access_hash_send, file-id, access-hash-rec, start-index, last-index, part-number, total-part, access-hash-send, chunk-size
+access-control-allow-origin:
+*
+cache-control:
+private
+date:
+Sun, 19 Jan 2025 20:07:20 GMT
+server:
+Microsoft-IIS/10.0
+total_length:
+5680
+x-aspnet-version:
+4.0.30319
+x-powered-by:
+ASP.NET
+accept:
+application/json, text/plain, */*
+accept-language:
+en-GB,en;q=0.9
+access-hash-rec:
+2126619240692810231892296030082024111217
+auth:
+rldgeiafmmdinvdvgukwbpvxmvvsyciq
+content-type:
+text/plain
+file-id:
+56007026509939
+last-index:
+262144
+referer:
+https://web.rubika.ir/
+sec-ch-ua:
+"Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+sec-ch-ua-mobile:
+?0
+sec-ch-ua-platform:
+"Windows"
+start-index:
+0
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+
+Request URL:
+blob:https://web.rubika.ir/c2a173d5-331d-48c4-be6f-36ee4280b431
+Request Method:
+GET
+Status Code:
+200 OK
+Referrer Policy:
+strict-origin-when-cross-origin
+content-length:
+8830
+
+content-type:
+image/jpg
+referer:
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+Request URL:
+blob:https://web.rubika.ir/06ae6923-56f5-4d8a-8760-50c32d4a77b5
+Request Method:
+GET
+Status Code:
+200 OK
+Referrer Policy:
+strict-origin-when-cross-origin
+content-length:
+4816
+content-type:
+image/jpg
+referer:
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+
+Request URL:
+blob:https://web.rubika.ir/16e3c15c-f765-460e-80a4-3653678f8b31
+Request Method:
+GET
+Status Code:
+200 OK
+Referrer Policy:
+strict-origin-when-cross-origin
+content-length:
+8926
+content-type:
+image/jpg
+referer:
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+
+equest URL:
+blob:https://web.rubika.ir/7c00ebdf-4d35-477f-a647-1b126c9ddf03
+Request Method:
+GET
+Status Code:
+200 OK
+Referrer Policy:
+strict-origin-when-cross-origin
+content-length:
+5680
+
+content-type:
+image/jpg
+referer:
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+Request URL:
+https://messenger798.iranlms.ir/GetFile.ashx
+Request Method:
+POST
+Status Code:
+200 OK
+Remote Address:
+127.0.0.1:10809
+Referrer Policy:
+strict-origin-when-cross-origin
+access-control-allow-headers:
+Origin, X-Requested-With, Content-Type, Accept,auth, file_id, access_hash_rec, start_index, last_index,part_number, total_part, access_hash_send, file-id, access-hash-rec, start-index, last-index, part-number, total-part, access-hash-send, chunk-size
+access-control-allow-origin:
+*
+cache-control:
+private
+date:
+Sun, 19 Jan 2025 20:07:21 GMT
+server:
+Microsoft-IIS/10.0
+total_length:
+6314
+x-aspnet-version:
+4.0.30319
+x-powered-by:
+ASP.NET
+:authority:
+messenger798.iranlms.ir
+:method:
+POST
+:path:
+/GetFile.ashx
+:scheme:
+https
+accept:
+application/json, text/plain, */*
+accept-encoding:
+gzip, deflate, br, zstd
+accept-language:
+en-GB,en;q=0.9
+access-hash-rec:
+6854569387555886403972562816792024091212
+auth:
+rldgeiafmmdinvdvgukwbpvxmvvsyciq
+content-length:
+0
+content-type:
+text/plain
+file-id:
+50934944955134
+last-index:
+262144
+origin:
+https://web.rubika.ir
+priority:
+u=1, i
+referer:
+https://web.rubika.ir/
+sec-ch-ua:
+"Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+sec-ch-ua-mobile:
+?0
+sec-ch-ua-platform:
+"Windows"
+sec-fetch-dest:
+empty
+sec-fetch-mode:
+cors
+sec-fetch-site:
+cross-site
+start-index:
+0
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+
+Request URL:
+https://web.rubika.ir/ngsw.json?ngsw-cache-bust=0.6604809796866156
+Request Method:
+GET
+Status Code:
+200 OK
+Remote Address:
+127.0.0.1:10809
+Referrer Policy:
+strict-origin-when-cross-origin
+accept-ranges:
+bytes
+content-length:
+16013
+content-type:
+application/json
+date:
+Sun, 19 Jan 2025 20:06:55 GMT
+etag:
+"80b047b27550db1:0"
+last-modified:
+Tue, 17 Dec 2024 11:20:37 GMT
+server:
+Microsoft-IIS/10.0
+x-powered-by:
+ASP.NET
+:authority:
+web.rubika.ir
+:method:
+GET
+:path:
+/ngsw.json?ngsw-cache-bust=0.6604809796866156
+:scheme:
+https
+accept:
+*/*
+accept-encoding:
+gzip, deflate, br, zstd
+accept-language:
+en-GB,en;q=0.9,en-US;q=0.8,fa;q=0.7,zh-CN;q=0.6,zh;q=0.5,pl;q=0.4
+priority:
+u=1, i
+referer:
+https://web.rubika.ir/ngsw-worker.js
+sec-fetch-dest:
+empty
+sec-fetch-mode:
+cors
+sec-fetch-site:
+same-origin
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+
+Request URL:
+https://web.rubika.ir/ngsw.json?ngsw-cache-bust=0.8201071232128807
+Request Method:
+GET
+Status Code:
+200 OK
+Remote Address:
+127.0.0.1:10809
+Referrer Policy:
+strict-origin-when-cross-origin
+accept-ranges:
+bytes
+content-length:
+16013
+content-type:
+application/json
+date:
+Sun, 19 Jan 2025 20:07:01 GMT
+etag:
+"80b047b27550db1:0"
+last-modified:
+Tue, 17 Dec 2024 11:20:37 GMT
+server:
+Microsoft-IIS/10.0
+x-powered-by:
+ASP.NET
+:authority:
+web.rubika.ir
+:method:
+GET
+:path:
+/ngsw.json?ngsw-cache-bust=0.8201071232128807
+:scheme:
+https
+accept:
+*/*
+accept-encoding:
+gzip, deflate, br, zstd
+accept-language:
+en-GB,en;q=0.9,en-US;q=0.8,fa;q=0.7,zh-CN;q=0.6,zh;q=0.5,pl;q=0.4
+priority:
+u=1, i
+referer:
+https://web.rubika.ir/ngsw-worker.js
+sec-fetch-dest:
+empty
+sec-fetch-mode:
+cors
+sec-fetch-site:
+same-origin
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+Request URL:
+https://messengerg2c153.iranlms.ir/
+Request Method:
+POST
+Status Code:
+200 OK
+Remote Address:
+127.0.0.1:10809
+Referrer Policy:
+strict-origin-when-cross-origin
+access-control-allow-origin:
+https://web.rubika.ir
+allow:
+GET, POST, HEAD, OPTIONS
+content-length:
+1339
+content-type:
+application/json
+date:
+Sun, 19 Jan 2025 20:08:20 GMT
+server:
+nginx/1.26.0
+vary:
+Accept, Cookie, Origin
+x-frame-options:
+SAMEORIGIN
+:authority:
+messengerg2c153.iranlms.ir
+:method:
+POST
+:path:
+/
+:scheme:
+https
+accept:
+application/json, text/plain, */*
+accept-encoding:
+gzip, deflate, br, zstd
+accept-language:
+en-GB,en;q=0.9
+content-length:
+493
+content-type:
+text/plain
+origin:
+https://web.rubika.ir
+priority:
+u=1, i
+referer:
+https://web.rubika.ir/
+sec-ch-ua:
+"Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+sec-ch-ua-mobile:
+?0
+sec-ch-ua-platform:
+"Windows"
+sec-fetch-dest:
+empty
+sec-fetch-mode:
+cors
+sec-fetch-site:
+cross-site
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+
+Request URL:
+https://messengerg2c153.iranlms.ir/
+Request Method:
+POST
+Status Code:
+200 OK (from service worker)
+Referrer Policy:
+strict-origin-when-cross-origin
+access-control-allow-origin:
+https://web.rubika.ir
+allow:
+GET, POST, HEAD, OPTIONS
+content-length:
+187
+content-type:
+application/json
+date:
+Sun, 19 Jan 2025 20:09:23 GMT
+server:
+nginx/1.26.0
+vary:
+Accept, Cookie, Origin
+x-frame-options:
+SAMEORIGIN
+accept:
+application/json, text/plain, */*
+accept-language:
+en-GB,en;q=0.9
+content-type:
+text/plain
+referer:
+https://web.rubika.ir/
+sec-ch-ua:
+"Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+sec-ch-ua-mobile:
+?0
+sec-ch-ua-platform:
+"Windows"
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+
+Request URL:
+https://messengerg2c153.iranlms.ir/
+Request Method:
+POST
+Status Code:
+200 OK
+Remote Address:
+127.0.0.1:10809
+Referrer Policy:
+strict-origin-when-cross-origin
+access-control-allow-origin:
+https://web.rubika.ir
+allow:
+GET, POST, HEAD, OPTIONS
+content-length:
+187
+content-type:
+application/json
+date:
+Sun, 19 Jan 2025 20:09:23 GMT
+server:
+nginx/1.26.0
+vary:
+Accept, Cookie, Origin
+x-frame-options:
+SAMEORIGIN
+:authority:
+messengerg2c153.iranlms.ir
+:method:
+POST
+:path:
+/
+:scheme:
+https
+accept:
+application/json, text/plain, */*
+accept-encoding:
+gzip, deflate, br, zstd
+accept-language:
+en-GB,en;q=0.9
+content-length:
+493
+content-type:
+text/plain
+origin:
+https://web.rubika.ir
+priority:
+u=1, i
+referer:
+https://web.rubika.ir/
+sec-ch-ua:
+"Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+sec-ch-ua-mobile:
+?0
+sec-ch-ua-platform:
+"Windows"
+sec-fetch-dest:
+empty
+sec-fetch-mode:
+cors
+sec-fetch-site:
+cross-site
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+
+Request URL:
+https://messengerg2c153.iranlms.ir/
+Request Method:
+POST
+Status Code:
+200 OK (from service worker)
+Referrer Policy:
+strict-origin-when-cross-origin
+access-control-allow-origin:
+https://web.rubika.ir
+allow:
+GET, POST, HEAD, OPTIONS
+content-length:
+187
+content-type:
+application/json
+date:
+Sun, 19 Jan 2025 20:10:23 GMT
+server:
+nginx/1.26.0
+vary:
+Accept, Cookie, Origin
+x-frame-options:
+SAMEORIGIN
+accept:
+application/json, text/plain, */*
+accept-language:
+en-GB,en;q=0.9
+content-type:
+text/plain
+referer:
+https://web.rubika.ir/
+sec-ch-ua:
+"Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+sec-ch-ua-mobile:
+?0
+sec-ch-ua-platform:
+"Windows"
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+
+Request URL:
+https://messengerg2c153.iranlms.ir/
+Request Method:
+POST
+Status Code:
+200 OK
+Remote Address:
+127.0.0.1:10809
+Referrer Policy:
+strict-origin-when-cross-origin
+access-control-allow-origin:
+https://web.rubika.ir
+allow:
+GET, POST, HEAD, OPTIONS
+content-length:
+187
+content-type:
+application/json
+date:
+Sun, 19 Jan 2025 20:10:23 GMT
+server:
+nginx/1.26.0
+vary:
+Accept, Cookie, Origin
+x-frame-options:
+SAMEORIGIN
+:authority:
+messengerg2c153.iranlms.ir
+:method:
+POST
+:path:
+/
+:scheme:
+https
+accept:
+application/json, text/plain, */*
+accept-encoding:
+gzip, deflate, br, zstd
+accept-language:
+en-GB,en;q=0.9
+content-length:
+493
+content-type:
+text/plain
+origin:
+https://web.rubika.ir
+priority:
+u=1, i
+referer:
+https://web.rubika.ir/
+sec-ch-ua:
+"Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+sec-ch-ua-mobile:
+?0
+sec-ch-ua-platform:
+"Windows"
+sec-fetch-dest:
+empty
+sec-fetch-mode:
+cors
+sec-fetch-site:
+cross-site
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+equest URL:
+https://messengerg2c153.iranlms.ir/
+Request Method:
+POST
+Status Code:
+200 OK (from service worker)
+Referrer Policy:
+strict-origin-when-cross-origin
+access-control-allow-origin:
+https://web.rubika.ir
+allow:
+GET, POST, HEAD, OPTIONS
+content-length:
+187
+content-type:
+application/json
+date:
+Sun, 19 Jan 2025 20:11:23 GMT
+server:
+nginx/1.26.0
+vary:
+Accept, Cookie, Origin
+x-frame-options:
+SAMEORIGIN
+accept:
+application/json, text/plain, */*
+accept-language:
+en-GB,en;q=0.9
+content-type:
+text/plain
+referer:
+https://web.rubika.ir/
+sec-ch-ua:
+"Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+sec-ch-ua-mobile:
+?0
+sec-ch-ua-platform:
+"Windows"
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+Request URL:
+https://messengerg2c153.iranlms.ir/
+Request Method:
+POST
+Status Code:
+200 OK
+Remote Address:
+127.0.0.1:10809
+Referrer Policy:
+strict-origin-when-cross-origin
+access-control-allow-origin:
+https://web.rubika.ir
+allow:
+GET, POST, HEAD, OPTIONS
+content-length:
+187
+content-type:
+application/json
+date:
+Sun, 19 Jan 2025 20:11:23 GMT
+server:
+nginx/1.26.0
+vary:
+Accept, Cookie, Origin
+x-frame-options:
+SAMEORIGIN
+:authority:
+messengerg2c153.iranlms.ir
+:method:
+POST
+:path:
+/
+:scheme:
+https
+accept:
+application/json, text/plain, */*
+accept-encoding:
+gzip, deflate, br, zstd
+accept-language:
+en-GB,en;q=0.9
+content-length:
+493
+content-type:
+text/plain
+origin:
+https://web.rubika.ir
+priority:
+u=1, i
+referer:
+https://web.rubika.ir/
+sec-ch-ua:
+"Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+sec-ch-ua-mobile:
+?0
+sec-ch-ua-platform:
+"Windows"
+sec-fetch-dest:
+empty
+sec-fetch-mode:
+cors
+sec-fetch-site:
+cross-site
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+equest URL:
+https://messengerg2c153.iranlms.ir/
+Request Method:
+POST
+Status Code:
+200 OK (from service worker)
+Referrer Policy:
+strict-origin-when-cross-origin
+access-control-allow-origin:
+https://web.rubika.ir
+allow:
+GET, POST, HEAD, OPTIONS
+content-length:
+2215
+content-type:
+application/json
+date:
+Sun, 19 Jan 2025 20:12:18 GMT
+server:
+nginx/1.26.0
+vary:
+Accept, Cookie, Origin
+x-frame-options:
+SAMEORIGIN
+accept:
+application/json, text/plain, */*
+accept-language:
+en-GB,en;q=0.9
+content-type:
+text/plain
+referer:
+https://web.rubika.ir/
+sec-ch-ua:
+"Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+sec-ch-ua-mobile:
+?0
+sec-ch-ua-platform:
+"Windows"
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+Request URL:
+https://messengerg2c153.iranlms.ir/
+Request Method:
+POST
+Status Code:
+200 OK
+Remote Address:
+127.0.0.1:10809
+Referrer Policy:
+strict-origin-when-cross-origin
+access-control-allow-origin:
+https://web.rubika.ir
+allow:
+GET, POST, HEAD, OPTIONS
+content-length:
+2215
+content-type:
+application/json
+date:
+Sun, 19 Jan 2025 20:12:18 GMT
+server:
+nginx/1.26.0
+vary:
+Accept, Cookie, Origin
+x-frame-options:
+SAMEORIGIN
+:authority:
+messengerg2c153.iranlms.ir
+:method:
+POST
+:path:
+/
+:scheme:
+https
+accept:
+application/json, text/plain, */*
+accept-encoding:
+gzip, deflate, br, zstd
+accept-language:
+en-GB,en;q=0.9
+content-length:
+493
+content-type:
+text/plain
+origin:
+https://web.rubika.ir
+priority:
+u=1, i
+referer:
+https://web.rubika.ir/
+sec-ch-ua:
+"Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+sec-ch-ua-mobile:
+?0
+sec-ch-ua-platform:
+"Windows"
+sec-fetch-dest:
+empty
+sec-fetch-mode:
+cors
+sec-fetch-site:
+cross-site
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+Request URL:
+https://messengerg2c153.iranlms.ir/
+Request Method:
+POST
+Status Code:
+200 OK (from service worker)
+Referrer Policy:
+strict-origin-when-cross-origin
+access-control-allow-origin:
+https://web.rubika.ir
+allow:
+GET, POST, HEAD, OPTIONS
+content-length:
+187
+content-type:
+application/json
+date:
+Sun, 19 Jan 2025 20:12:24 GMT
+server:
+nginx/1.26.0
+vary:
+Accept, Cookie, Origin
+x-frame-options:
+SAMEORIGIN
+accept:
+application/json, text/plain, */*
+accept-language:
+en-GB,en;q=0.9
+content-type:
+text/plain
+referer:
+https://web.rubika.ir/
+sec-ch-ua:
+"Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+sec-ch-ua-mobile:
+?0
+sec-ch-ua-platform:
+"Windows"
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+Request URL:
+https://messengerg2c153.iranlms.ir/
+Request Method:
+POST
+Status Code:
+200 OK
+Remote Address:
+127.0.0.1:10809
+Referrer Policy:
+strict-origin-when-cross-origin
+access-control-allow-origin:
+https://web.rubika.ir
+allow:
+GET, POST, HEAD, OPTIONS
+content-length:
+187
+content-type:
+application/json
+date:
+Sun, 19 Jan 2025 20:12:24 GMT
+server:
+nginx/1.26.0
+vary:
+Accept, Cookie, Origin
+x-frame-options:
+SAMEORIGIN
+:authority:
+messengerg2c153.iranlms.ir
+:method:
+POST
+:path:
+/
+:scheme:
+https
+accept:
+application/json, text/plain, */*
+accept-encoding:
+gzip, deflate, br, zstd
+accept-language:
+en-GB,en;q=0.9
+content-length:
+493
+content-type:
+text/plain
+origin:
+https://web.rubika.ir
+priority:
+u=1, i
+referer:
+https://web.rubika.ir/
+sec-ch-ua:
+"Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+sec-ch-ua-mobile:
+?0
+sec-ch-ua-platform:
+"Windows"
+sec-fetch-dest:
+empty
+sec-fetch-mode:
+cors
+sec-fetch-site:
+cross-site
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+Request URL:
+https://messengerg2c153.iranlms.ir/
+Request Method:
+POST
+Status Code:
+200 OK (from service worker)
+Referrer Policy:
+strict-origin-when-cross-origin
+access-control-allow-origin:
+https://web.rubika.ir
+allow:
+GET, POST, HEAD, OPTIONS
+content-length:
+187
+content-type:
+application/json
+date:
+Sun, 19 Jan 2025 20:13:24 GMT
+server:
+nginx/1.26.0
+vary:
+Accept, Cookie, Origin
+x-frame-options:
+SAMEORIGIN
+accept:
+application/json, text/plain, */*
+accept-language:
+en-GB,en;q=0.9
+content-type:
+text/plain
+referer:
+https://web.rubika.ir/
+sec-ch-ua:
+"Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+sec-ch-ua-mobile:
+?0
+sec-ch-ua-platform:
+"Windows"
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+
+Request URL:
+https://messengerg2c153.iranlms.ir/
+Request Method:
+POST
+Status Code:
+200 OK
+Remote Address:
+127.0.0.1:10809
+Referrer Policy:
+strict-origin-when-cross-origin
+access-control-allow-origin:
+https://web.rubika.ir
+allow:
+GET, POST, HEAD, OPTIONS
+content-length:
+187
+content-type:
+application/json
+date:
+Sun, 19 Jan 2025 20:13:24 GMT
+server:
+nginx/1.26.0
+vary:
+Accept, Cookie, Origin
+x-frame-options:
+SAMEORIGIN
+:authority:
+messengerg2c153.iranlms.ir
+:method:
+POST
+:path:
+/
+:scheme:
+https
+accept:
+application/json, text/plain, */*
+accept-encoding:
+gzip, deflate, br, zstd
+accept-language:
+en-GB,en;q=0.9
+content-length:
+493
+content-type:
+text/plain
+origin:
+https://web.rubika.ir
+priority:
+u=1, i
+referer:
+https://web.rubika.ir/
+sec-ch-ua:
+"Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+sec-ch-ua-mobile:
+?0
+sec-ch-ua-platform:
+"Windows"
+sec-fetch-dest:
+empty
+sec-fetch-mode:
+cors
+sec-fetch-site:
+cross-site
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+Request URL:
+https://messengerg2c153.iranlms.ir/
+Request Method:
+POST
+Status Code:
+200 OK (from service worker)
+Referrer Policy:
+strict-origin-when-cross-origin
+access-control-allow-origin:
+https://web.rubika.ir
+allow:
+GET, POST, HEAD, OPTIONS
+content-length:
+187
+content-type:
+application/json
+date:
+Sun, 19 Jan 2025 20:14:25 GMT
+server:
+nginx/1.26.0
+vary:
+Accept, Cookie, Origin
+x-frame-options:
+SAMEORIGIN
+accept:
+application/json, text/plain, */*
+accept-language:
+en-GB,en;q=0.9
+content-type:
+text/plain
+referer:
+https://web.rubika.ir/
+sec-ch-ua:
+"Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+sec-ch-ua-mobile:
+?0
+sec-ch-ua-platform:
+"Windows"
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+Request URL:
+https://messengerg2c153.iranlms.ir/
+Request Method:
+POST
+Status Code:
+200 OK
+Remote Address:
+127.0.0.1:10809
+Referrer Policy:
+strict-origin-when-cross-origin
+access-control-allow-origin:
+https://web.rubika.ir
+allow:
+GET, POST, HEAD, OPTIONS
+content-length:
+187
+content-type:
+application/json
+date:
+Sun, 19 Jan 2025 20:14:25 GMT
+server:
+nginx/1.26.0
+vary:
+Accept, Cookie, Origin
+x-frame-options:
+SAMEORIGIN
+:authority:
+messengerg2c153.iranlms.ir
+:method:
+POST
+:path:
+/
+:scheme:
+https
+accept:
+application/json, text/plain, */*
+accept-encoding:
+gzip, deflate, br, zstd
+accept-language:
+en-GB,en;q=0.9
+content-length:
+493
+content-type:
+text/plain
+origin:
+https://web.rubika.ir
+priority:
+u=1, i
+referer:
+https://web.rubika.ir/
+sec-ch-ua:
+"Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+sec-ch-ua-mobile:
+?0
+sec-ch-ua-platform:
+"Windows"
+sec-fetch-dest:
+empty
+sec-fetch-mode:
+cors
+sec-fetch-site:
+cross-site
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+Request URL:
+https://messengerg2c153.iranlms.ir/
+Request Method:
+POST
+Status Code:
+200 OK (from service worker)
+Referrer Policy:
+strict-origin-when-cross-origin
+access-control-allow-origin:
+https://web.rubika.ir
+allow:
+GET, POST, HEAD, OPTIONS
+content-length:
+187
+content-type:
+application/json
+date:
+Sun, 19 Jan 2025 20:15:25 GMT
+server:
+nginx/1.26.0
+vary:
+Accept, Cookie, Origin
+x-frame-options:
+SAMEORIGIN
+accept:
+application/json, text/plain, */*
+accept-language:
+en-GB,en;q=0.9
+content-type:
+text/plain
+referer:
+https://web.rubika.ir/
+sec-ch-ua:
+"Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+sec-ch-ua-mobile:
+?0
+sec-ch-ua-platform:
+"Windows"
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+Request URL:
+https://messengerg2c153.iranlms.ir/
+Request Method:
+POST
+Status Code:
+200 OK
+Remote Address:
+127.0.0.1:10809
+Referrer Policy:
+strict-origin-when-cross-origin
+access-control-allow-origin:
+https://web.rubika.ir
+allow:
+GET, POST, HEAD, OPTIONS
+content-length:
+187
+content-type:
+application/json
+date:
+Sun, 19 Jan 2025 20:15:25 GMT
+server:
+nginx/1.26.0
+vary:
+Accept, Cookie, Origin
+x-frame-options:
+SAMEORIGIN
+:authority:
+messengerg2c153.iranlms.ir
+:method:
+POST
+:path:
+/
+:scheme:
+https
+accept:
+application/json, text/plain, */*
+accept-encoding:
+gzip, deflate, br, zstd
+accept-language:
+en-GB,en;q=0.9
+content-length:
+493
+content-type:
+text/plain
+origin:
+https://web.rubika.ir
+priority:
+u=1, i
+referer:
+https://web.rubika.ir/
+sec-ch-ua:
+"Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+sec-ch-ua-mobile:
+?0
+sec-ch-ua-platform:
+"Windows"
+sec-fetch-dest:
+empty
+sec-fetch-mode:
+cors
+sec-fetch-site:
+cross-site
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+Request URL:
+https://messengerg2c153.iranlms.ir/
+Request Method:
+POST
+Status Code:
+200 OK (from service worker)
+Referrer Policy:
+strict-origin-when-cross-origin
+access-control-allow-origin:
+https://web.rubika.ir
+allow:
+GET, POST, HEAD, OPTIONS
+content-length:
+187
+content-type:
+application/json
+date:
+Sun, 19 Jan 2025 20:16:26 GMT
+server:
+nginx/1.26.0
+vary:
+Accept, Cookie, Origin
+x-frame-options:
+SAMEORIGIN
+accept:
+application/json, text/plain, */*
+accept-language:
+en-GB,en;q=0.9
+content-type:
+text/plain
+referer:
+https://web.rubika.ir/
+sec-ch-ua:
+"Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+sec-ch-ua-mobile:
+?0
+sec-ch-ua-platform:
+"Windows"
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+Request URL:
+https://messengerg2c153.iranlms.ir/
+Request Method:
+POST
+Status Code:
+200 OK
+Remote Address:
+127.0.0.1:10809
+Referrer Policy:
+strict-origin-when-cross-origin
+access-control-allow-origin:
+https://web.rubika.ir
+allow:
+GET, POST, HEAD, OPTIONS
+content-length:
+187
+content-type:
+application/json
+date:
+Sun, 19 Jan 2025 20:16:26 GMT
+server:
+nginx/1.26.0
+vary:
+Accept, Cookie, Origin
+x-frame-options:
+SAMEORIGIN
+:authority:
+messengerg2c153.iranlms.ir
+:method:
+POST
+:path:
+/
+:scheme:
+https
+accept:
+application/json, text/plain, */*
+accept-encoding:
+gzip, deflate, br, zstd
+accept-language:
+en-GB,en;q=0.9
+content-length:
+493
+content-type:
+text/plain
+origin:
+https://web.rubika.ir
+priority:
+u=1, i
+referer:
+https://web.rubika.ir/
+sec-ch-ua:
+"Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+sec-ch-ua-mobile:
+?0
+sec-ch-ua-platform:
+"Windows"
+sec-fetch-dest:
+empty
+sec-fetch-mode:
+cors
+sec-fetch-site:
+cross-site
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+
+Request URL:
+https://messengerg2c153.iranlms.ir/
+Request Method:
+POST
+Status Code:
+200 OK (from service worker)
+Referrer Policy:
+strict-origin-when-cross-origin
+access-control-allow-origin:
+https://web.rubika.ir
+allow:
+GET, POST, HEAD, OPTIONS
+content-length:
+2215
+content-type:
+application/json
+date:
+Sun, 19 Jan 2025 20:17:19 GMT
+server:
+nginx/1.26.0
+vary:
+Accept, Cookie, Origin
+x-frame-options:
+SAMEORIGIN
+accept:
+application/json, text/plain, */*
+accept-language:
+en-GB,en;q=0.9
+content-type:
+text/plain
+referer:
+https://web.rubika.ir/
+sec-ch-ua:
+"Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+sec-ch-ua-mobile:
+?0
+sec-ch-ua-platform:
+"Windows"
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+Request URL:
+https://messengerg2c153.iranlms.ir/
+Request Method:
+POST
+Status Code:
+200 OK
+Remote Address:
+127.0.0.1:10809
+Referrer Policy:
+strict-origin-when-cross-origin
+access-control-allow-origin:
+https://web.rubika.ir
+allow:
+GET, POST, HEAD, OPTIONS
+content-length:
+2215
+content-type:
+application/json
+date:
+Sun, 19 Jan 2025 20:17:19 GMT
+server:
+nginx/1.26.0
+vary:
+Accept, Cookie, Origin
+x-frame-options:
+SAMEORIGIN
+:authority:
+messengerg2c153.iranlms.ir
+:method:
+POST
+:path:
+/
+:scheme:
+https
+accept:
+application/json, text/plain, */*
+accept-encoding:
+gzip, deflate, br, zstd
+accept-language:
+en-GB,en;q=0.9
+content-length:
+493
+content-type:
+text/plain
+origin:
+https://web.rubika.ir
+priority:
+u=1, i
+referer:
+https://web.rubika.ir/
+sec-ch-ua:
+"Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+sec-ch-ua-mobile:
+?0
+sec-ch-ua-platform:
+"Windows"
+sec-fetch-dest:
+empty
+sec-fetch-mode:
+cors
+sec-fetch-site:
+cross-site
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+Request URL:
+blob:https://web.rubika.ir/28bff1fd-e4d3-4cae-aa7c-6779e895dd3a
+Request Method:
+GET
+Status Code:
+200 OK
+Referrer Policy:
+strict-origin-when-cross-origin
+content-length:
+15457
+content-type:
+image/jpg
+referer:
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+Request URL:
+https://messengerg2c153.iranlms.ir/
+Request Method:
+POST
+Status Code:
+200 OK (from service worker)
+Referrer Policy:
+strict-origin-when-cross-origin
+access-control-allow-origin:
+https://web.rubika.ir
+allow:
+GET, POST, HEAD, OPTIONS
+content-length:
+187
+content-type:
+application/json
+date:
+Sun, 19 Jan 2025 20:17:26 GMT
+server:
+nginx/1.26.0
+vary:
+Accept, Cookie, Origin
+x-frame-options:
+SAMEORIGIN
+accept:
+application/json, text/plain, */*
+accept-language:
+en-GB,en;q=0.9
+content-type:
+text/plain
+referer:
+https://web.rubika.ir/
+sec-ch-ua:
+"Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+sec-ch-ua-mobile:
+?0
+sec-ch-ua-platform:
+"Windows"
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+Request URL:
+https://messengerg2c153.iranlms.ir/
+Request Method:
+POST
+Status Code:
+200 OK
+Remote Address:
+127.0.0.1:10809
+Referrer Policy:
+strict-origin-when-cross-origin
+access-control-allow-origin:
+https://web.rubika.ir
+allow:
+GET, POST, HEAD, OPTIONS
+content-length:
+187
+content-type:
+application/json
+date:
+Sun, 19 Jan 2025 20:17:26 GMT
+server:
+nginx/1.26.0
+vary:
+Accept, Cookie, Origin
+x-frame-options:
+SAMEORIGIN
+:authority:
+messengerg2c153.iranlms.ir
+:method:
+POST
+:path:
+/
+:scheme:
+https
+accept:
+application/json, text/plain, */*
+accept-encoding:
+gzip, deflate, br, zstd
+accept-language:
+en-GB,en;q=0.9
+content-length:
+493
+content-type:
+text/plain
+origin:
+https://web.rubika.ir
+priority:
+u=1, i
+referer:
+https://web.rubika.ir/
+sec-ch-ua:
+"Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+sec-ch-ua-mobile:
+?0
+sec-ch-ua-platform:
+"Windows"
+sec-fetch-dest:
+empty
+sec-fetch-mode:
+cors
+sec-fetch-site:
+cross-site
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+
+Request URL:
+https://messengerg2c153.iranlms.ir/
+Request Method:
+POST
+Status Code:
+200 OK (from service worker)
+Referrer Policy:
+strict-origin-when-cross-origin
+access-control-allow-origin:
+https://web.rubika.ir
+allow:
+GET, POST, HEAD, OPTIONS
+content-length:
+187
+content-type:
+application/json
+date:
+Sun, 19 Jan 2025 20:18:26 GMT
+server:
+nginx/1.26.0
+vary:
+Accept, Cookie, Origin
+x-frame-options:
+SAMEORIGIN
+accept:
+application/json, text/plain, */*
+accept-language:
+en-GB,en;q=0.9
+content-type:
+text/plain
+referer:
+https://web.rubika.ir/
+sec-ch-ua:
+"Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+sec-ch-ua-mobile:
+?0
+sec-ch-ua-platform:
+"Windows"
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+
+
+
+
